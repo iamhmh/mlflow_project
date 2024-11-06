@@ -1,0 +1,12 @@
+venv/
+mlruns/
+
+__pycache__/
+*.pyc
+
+*.log
+
+.DS_Store
+
+.idea/
+.vscode/
