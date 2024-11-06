@@ -58,3 +58,11 @@ Open your web browser and navigate to `http://localhost:5000` to view the logged
 - Data Splitting: Splits the data into training and testing sets.
 - Model Training: Trains a Linear Regression model.
 - Logging with MLflow: Logs parameters, metrics, and the trained model.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Author
+
+- **HICHEM GOUIA** - (https://github.com/iamhmh)
